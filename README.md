@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kavitakundara.
-- 👀 I’m interested in Php and Front End languages.
+- 👀 I’m interested in Programming Language and Front end designs.
 - 🌱 I’m currently learning Web-development.
-- 💞️ I’m looking to collaborate on a frontend programming projects.
+- 💞️ I’m looking to collaborate on API Projects.
 - 📫 How to reach me ...
 
 <!---
