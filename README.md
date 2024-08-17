@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kavitakundara.
 - 👀 I’m interested in Programming Language and front-end designs.
 - 🌱 I’m currently learning Web development.
-- 💞️ I’m looking to collaborate on API Projects.
+- 💞️ I’m looking to collaborate on Open Source Projects.
 - 📫 How to reach me follow my LinkedIn account 
 
 <!---
